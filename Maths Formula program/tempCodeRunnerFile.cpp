@@ -1,0 +1,2 @@
+cout<<"The Lateral surface area of right prism on the basis of given base perimeter and height of right prism is:"<<lsa(bp, h)<<endl;
+    cout<<"The Total surface area of right prism on the basis of given base perimeter, height and base area of right prism is:"<<tsa(ba, bp, h)<<endl;

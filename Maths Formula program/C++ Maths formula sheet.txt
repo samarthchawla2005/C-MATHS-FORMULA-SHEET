@@ -1,0 +1,13 @@
+This is a Maths Formula Sheet.
+___________________________________________________________________
+| Shape |	Lateral Surface Area (LSA) | Total Surface Area (TSA) |
+___________________________________________________________________
+
+Cuboid | 2h(l + b) | 2(lb + bh + lh)
+Cube |	4a^2 | 6a^2
+Right Prism | Base perimeter × Height	| LSA + 2 (area of one end)
+Right Circular Cylinder | 2πrh | 2πr(r + h)
+Right Pyramid |	(1/2)*Perimeter of base × Slant Height |	LSA + Area of Base
+Right Circular Cone | πrl |	πr(l + r)
+Solid Sphere  |	4πr^2 | 4πr^2
+Hemisphere | ½ × 4 × πr^2 | 3πr^2
